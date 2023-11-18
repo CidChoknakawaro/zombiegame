@@ -21,7 +21,7 @@ YELLOW = (255, 255, 0)
 
 # Display Surface
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Shooting Achi")
+pygame.display.set_caption("Shooting Achi The Second")
 
 # Player Setup
 player = pygame.Rect(WIDTH // 2 - 25, HEIGHT // 2 - 25, 50, 50)
